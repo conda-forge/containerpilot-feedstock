@@ -1,7 +1,7 @@
 {% set name = "containerpilot" %}
 {% set version = "3.7.0" %}
 {% set sha1= "b10b30851de1ae1c095d5f253d12ce8fe8e7be17" %}
-{% set sha256= "322b19f19cd0480bb8fc48519b8836fe2545fb837b223c4d5b92c9e3d32b008a" %}
+{% set sha256= "8fbfb68ef02aefdcadbc414f7a47b8676dd8dc06d33b0eb78b26063d0a3b7bb2" %}
 
 package:
   name: {{ name|lower }}
